@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Microscopy Database")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9027186627667311010ac53ffd4a9de56e6aa390")]
 [assembly: System.Reflection.AssemblyProductAttribute("Microscopy Database")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Microscopy Database")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
