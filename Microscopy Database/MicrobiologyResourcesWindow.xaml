@@ -1,0 +1,36 @@
+﻿<Window x:Class="Microscopy_Database.MicrobiologyResourcesWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Microbiology Education &amp; Reference Resources" Height="580" Width="680"
+        WindowStartupLocation="CenterOwner" Background="#121212">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Header -->
+        <StackPanel Grid.Row="0" Margin="0,0,0,15">
+            <TextBlock Text="🔬 Microbiology &amp; Microscopy Resources" FontSize="20" FontWeight="Bold" Foreground="#FFFFFF"/>
+            <TextBlock Text="Handy links for education, identification keys, and reference guides." Foreground="#888888" FontSize="12" Margin="0,4,0,0"/>
+        </StackPanel>
+
+        <!-- Resource Groups Container -->
+        <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+            <StackPanel x:Name="ResourcesStackPanel">
+                <!-- Links generated dynamically in code-behind -->
+            </StackPanel>
+        </ScrollViewer>
+
+        <!-- Footer Close Button -->
+        <Button Grid.Row="2" Content="Close" Click="BtnClose_Click" Height="32" Width="100" HorizontalAlignment="Right" Margin="0,15,0,0"
+                Background="#3E3E42" Foreground="White" FontWeight="Bold" BorderThickness="0" Cursor="Hand">
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="4"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+    </Grid>
+</Window>

@@ -1,0 +1,14 @@
+Observation ID: OBS002
+ID: 77472409-516f-45d2-bbe3-76d79e9ee431
+Name: organismus
+Date: 2026-09-28
+Time: 10:42:14
+Sample Source: 
+Collection Location: 
+Sample Type: 
+Organism Group: DiatomCentric
+Identification: 
+Confidence: Possible
+----------------------------------------
+Notes:
+

@@ -1,0 +1,96 @@
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Microscopy Database.exe
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Microscopy Database.deps.json
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Microscopy Database.runtimeconfig.json
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Microscopy Database.dll
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Microscopy Database.pdb
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\MainWindow.g.cs
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\App.g.cs
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\Microscopy Database_MarkupCompile.cache
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\MainWindow.baml
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\Microscopy Database.g.resources
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\Microscopy Database.GeneratedMSBuildEditorConfig.editorconfig
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\Microscopy Database.AssemblyInfoInputs.cache
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\Microscopy Database.AssemblyInfo.cs
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\Microscopy Database.csproj.CoreCompileInputs.cache
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\Microscopy Database.dll
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\refint\Microscopy Database.dll
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\Microscopy Database.pdb
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\Microscopy Database.genruntimeconfig.cache
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\ref\Microscopy Database.dll
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Microsoft.Data.Sqlite.dll
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\SQLitePCLRaw.batteries_v2.dll
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\SQLitePCLRaw.core.dll
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\browser-wasm\nativeassets\net9.0\e_sqlite3.a
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\linux-musl-s390x\native\libe_sqlite3.so
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\Microscopy Database.csproj.AssemblyReference.cache
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\Microsco.0DA12991.Up2Date
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\EntryDetailWindow.baml
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\EntryDetailWindow.g.cs
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\MicrobiologyResourcesWindow.baml
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\MicrobiologyResourcesWindow.g.cs
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\TaxanomyReferenceWindow.baml
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\TaxanomyReferenceWindow.g.cs
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\blepharisma.jpg
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\colpoda.jpg
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\cyanobacteria.jpg
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\default.jpg
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\euplotes.jpg
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\halteria.jpg
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\lacrymaria.jpg
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\nematoda.jpg
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\paramecium.jpg
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\spirostomum.jpg
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\tardigrade.jpg
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\obj\Debug\net9.0-windows\Microscopy Database_Content.g.cs
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\didinium.jpg
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\stentor.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\vorticella.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\actinophrys.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\amoeba.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\arcella.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\difflugia.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\euglena.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\peranema.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\phacus.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\volvox.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\actinomycetes.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\bryozoan.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\cladophora.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\closterium.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\cosmarium.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\cyclops.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\daphnia.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\detritus.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\diatoms.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\diatom_centric.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\diatom_pennate.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\gastrotrich.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\hydra.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\ostracod.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\pediastrum.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\planarian.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\scenedesmus.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\spirogyra.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\zoogloea.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\rotifer.JPG
+G:\_MICROSCOPY\Microscopy Database\Microscopy Database\bin\Debug\net9.0-windows\Assets\Taxonomy\yeast.JPG
